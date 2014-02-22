@@ -1,9 +1,10 @@
 === Infusionsoft Web Form Widget ===
-Contributors: joeynovak
-Donate link: http://example.com/
+Contributors: joeynovak, zulugrid
 Tags: widget, infusionsoft
+Author URI: http://novaksolutions.com/
+Plugin URI: http://novaksolutions.com/wordpress-plugins/infusionsoft-web-form-widget/
 Requires at least: 2.8.0
-Tested up to: 2.9.2
+Tested up to: 3.8.1
 Stable tag: 1.0.2
 
 This widget gets a list of webforms from Infusionsoft and allows you to easily select one.
@@ -25,8 +26,11 @@ Magic...
 
 == Changelog ==
 
-= 1.0 =
-* Initial Release
+= 1.0.3 =
+* Tested up to 3.8.1
 
 = 1.0.1 =
 * Corrected Version Number
+
+= 1.0 =
+* Initial Release
