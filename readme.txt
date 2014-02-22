@@ -28,6 +28,8 @@ Magic...
 
 = 1.0.3 =
 * Tested up to 3.8.1
+* Removed SDK from plugin
+* Added dependency on Infusionsoft SDK plugin
 
 = 1.0.1 =
 * Corrected Version Number
